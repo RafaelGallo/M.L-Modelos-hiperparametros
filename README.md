@@ -1,2 +1,2 @@
-# M.L-Modelos-hiperpar-metros
+# M.L-Modelos-hiperparametros
 Modelos de hiperparâmetros ML
