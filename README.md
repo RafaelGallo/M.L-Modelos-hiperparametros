@@ -35,8 +35,7 @@
 
 ## Objetivo do projeto de machine learning
 
-Nesse reprositorio fiz alguns projetos de machine learning com hiperparâmetro.
-hiperparâmetro são utilizado para não ter overfitting no modelo ele pode ser utlizado muito bem até mesmo pipeline.
+Nesse reprositorio fiz alguns projetos de machine learning com hiperparâmetro são utilizado para não ter overfitting no modelo ele pode ser utlizado muito bem até mesmo pipeline.
 Nesse projeto realizei um modelo de machine learning previsão ser a pessoa vai ter câncer. Outro modelo previsão de doenças cardíacas, diabetes.
 
 # Projeto realizado
